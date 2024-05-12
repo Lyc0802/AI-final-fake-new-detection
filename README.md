@@ -7,3 +7,10 @@ In our digital era, the proliferation of fake news poses a substantial challenge
 We utilized a labeled dataset comprising news articles classified into two categories:
 * True: Authentic news articles
 * False: Fabricated or fake news articles
+
+## Model
+* Logistic Regression
+* Decision Tree Classifier
+* Gradient Boost Classifier
+* Random Forest Classifier
+
