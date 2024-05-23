@@ -8,9 +8,4 @@ We utilized a labeled dataset comprising news articles classified into two categ
 * True: Authentic news articles
 * False: Fabricated or fake news articles
 
-## Model
-* Logistic Regression
-* Decision Tree Classifier
-* Gradient Boost Classifier
-* Random Forest Classifier
 
